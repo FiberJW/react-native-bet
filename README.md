@@ -35,5 +35,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Uber](https://eng.uber.com/ubereats-react-native/)
 - [Echobind](https://echobind.com/blog/betting-on-react-native/)
 - [Draft Fantasy](https://draftfantasyfootball.co.uk/)
+- [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 💯
