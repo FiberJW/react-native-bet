@@ -36,5 +36,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Draft Fantasy](https://draftfantasyfootball.co.uk/)
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
+- [Yeti Smarthome](https://medium.com/react-native-development/developing-beyond-the-screen-9af812b96724)
+
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 💯
