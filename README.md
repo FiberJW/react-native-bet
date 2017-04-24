@@ -8,7 +8,6 @@
 
 If your organization uses React Native feel free to drop a [PR](https://github.com/datwheat/react-native-bet/pull/new/master) with your experience! Also don't hesitate to say _hi_ on [Twitter](https://twitter.com/datwheat)! 😄
 
-
 ## Organizations using React Native
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/), obvi 💁
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
