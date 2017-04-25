@@ -41,6 +41,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Mirum Helsinki](https://www.mirumagency.com/helsinki)
 - [Newsblock](https://newsblock.io)
 - [Major League Soccer](https://labs.mlssoccer.com/)
+- [Entria](https://www.entria.com.br/)
 - [Easy Carros](https://easycarros.com)
 - [G2i](http://www.g2idev.com)
 - [Minder](http://www.minderme.co)
