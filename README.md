@@ -10,6 +10,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 
 ## Organizations using React Native
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/), obvi 💁
+- [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
 - [Formidable](https://www.youtube.com/watch?v=FbAPw8RUEmA&t=809s)
