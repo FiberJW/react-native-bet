@@ -39,6 +39,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Yeti Smarthome](https://medium.com/react-native-development/developing-beyond-the-screen-9af812b96724)
 - [Callstack](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
 - [Mirum Helsinki](https://www.mirumagency.com/helsinki)
+- [Newsblock](https://newsblock.io)
 
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 💯
