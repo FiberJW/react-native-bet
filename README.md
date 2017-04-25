@@ -10,6 +10,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 
 ## Organizations using React Native
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/), obvi 💁
+- [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
 - [Formidable](https://www.youtube.com/watch?v=FbAPw8RUEmA&t=809s)
@@ -17,7 +18,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Walmart](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.ueonqqloc)
 - [Zeemee](https://zeemee.engineering/react-native-on-android-lessons-learned-99fee8f1d390)
 - [Bloomberg](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
-- [Li.st](https://www.youtube.com/watch?v=cI9bDvDEsYE)
 - [Shoutem](https://blog.shoutem.com/brief-history-react-native/)
 - [Myntra](https://medium.com/myntra-engineering/updating-apps-on-the-fly-aab40c26fac2)
 - [Discord](https://discord.engineering/react-native-deep-dive-91fd5e949933#.5jnqftgof)
@@ -37,6 +37,8 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
 - [Yeti Smarthome](https://medium.com/react-native-development/developing-beyond-the-screen-9af812b96724)
+- [Callstack](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
+- [Mirum Helsinki](https://www.mirumagency.com/helsinki)
 - [Newsblock](https://newsblock.io)
 
 
