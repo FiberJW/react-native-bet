@@ -41,5 +41,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Mirum Helsinki](https://www.mirumagency.com/helsinki)
 - [Newsblock](https://newsblock.io)
 - [Major League Soccer](https://labs.mlssoccer.com/)
+- [Entria](https://www.entria.com.br/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 
