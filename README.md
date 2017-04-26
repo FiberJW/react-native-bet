@@ -6,10 +6,10 @@
 
 >A listing of companies (or teams) that use React Native in their apps. [React Native](https://facebook.github.io/react-native/) is a framework for building native apps using [React](https://facebook.github.io/react/).
 
-If your organization uses React Native feel free to drop a [PR](https://github.com/datwheat/react-native-bet/pull/new/master) with your experience! Also don't hesitate to say _hi_ on [Twitter](https://twitter.com/datwheat)! 
+If your organization uses React Native feel free to drop a [PR](https://github.com/datwheat/react-native-bet/pull/new/master) with your experience! Also don't hesitate to say _hi_ on [Twitter](https://twitter.com/datwheat)!
 
 ## Organizations using React Native
-- [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/), obvi 
+- [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/), obvi
 - [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
@@ -48,5 +48,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Modus Create](http://www.moduscreate.com)
 - [Pillow Homes](https://www.pillowhomes.com/)
 - [thoughtbot](https://thoughtbot.com/services/react-native)
+- [HoxFon](https://www.hoxfon.com)
 
-Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 
+Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
