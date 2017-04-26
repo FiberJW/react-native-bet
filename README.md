@@ -49,5 +49,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Pillow Homes](https://www.pillowhomes.com/)
 - [thoughtbot](https://thoughtbot.com/services/react-native)
 - [HoxFon](https://www.hoxfon.com)
+- [S-PRO](http://s-pro.io/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
