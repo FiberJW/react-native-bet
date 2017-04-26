@@ -47,5 +47,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Minder](http://www.minderme.co)
 - [Modus Create](http://www.moduscreate.com)
 - [Pillow Homes](https://www.pillowhomes.com/)
+- [thoughtbot](https://thoughtbot.com/services/react-native)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list! 
