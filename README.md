@@ -32,6 +32,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Delivery.com](https://medium.com/delivery-com-engineering/react-native-in-an-existing-ios-app-delivered-874ba95a3c52#.37qruw6ck)
 - [Soundcloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
 - [Uber](https://eng.uber.com/ubereats-react-native/)
+- [Tiptapp](http://tiptapp.se/)
 - [Echobind](https://echobind.com/blog/betting-on-react-native/)
 - [Draft Fantasy](https://draftfantasyfootball.co.uk/)
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
@@ -56,5 +57,8 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Carbon Health](https://www.carbonhealth.com/)
 - [Hashrocket](https://hashrocket.com/blog/posts/tips-and-tricks-from-integrating-react-native-with-existing-native-apps)
 - [Crossfield](http://www.crossfield.com/)
+- [VisitApps](https://www.visitapps.com/)
+- [Zizzle](http://zizzle.io)
+- [Agens](https://agens.no/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
