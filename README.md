@@ -56,6 +56,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Carbon Health](https://www.carbonhealth.com/)
 - [Zizzle](http://zizzle.io)
 - [Zulip](https://zulip.org)
+- [Hyr](https://hyr.work)
 
 ## Household Names
 
