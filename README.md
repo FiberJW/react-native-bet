@@ -57,5 +57,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Hashrocket](https://hashrocket.com/blog/posts/tips-and-tricks-from-integrating-react-native-with-existing-native-apps)
 - [VisitApps](https://www.visitapps.com/)
 - [Zizzle](http://zizzle.io)
+- [Agens](https://agens.no/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
