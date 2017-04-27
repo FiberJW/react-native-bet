@@ -54,5 +54,6 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Driversnote](https://www.driversnote.com/)
 - [BigBinary](http://www.bigbinary.com/)
 - [Carbon Health](https://www.carbonhealth.com/)
+- [Hashrocket](https://hashrocket.com/blog/posts/tips-and-tricks-from-integrating-react-native-with-existing-native-apps)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
