@@ -25,6 +25,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Infinite Red](https://shift.infinite.red/unveiling-ignite-2-d27d772c4959)
 - [Mirum Helsinki](https://www.mirumagency.com/helsinki)
 - [Modus Create](http://www.moduscreate.com)
+- [LλMBDλ](http://www.lambdaconsulting.co)
 - [Pleo](https://pleo.io)
 - [S-PRO](http://s-pro.io/)
 - [thoughtbot](https://thoughtbot.com/services/react-native)
