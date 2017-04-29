@@ -51,6 +51,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Newsblock](https://newsblock.io)
 - [Pillow Homes](https://www.pillowhomes.com/)
 - [Shoutem](https://blog.shoutem.com/brief-history-react-native/)
+- [shop.link](https://shop.link)
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
 - [Tiptapp](http://tiptapp.se/)
 - [Townske](https://hackernoon.com/townske-app-in-react-native-6ad557de7a7c)
