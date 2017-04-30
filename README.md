@@ -67,6 +67,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Bloomberg](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
+- [Intuit](https://www.meetup.com/ReactSD/events/232391067/)
 - [Major League Soccer](https://labs.mlssoccer.com/)
 - [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
 - [Soundcloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
@@ -74,6 +75,5 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
 - [Uber](https://eng.uber.com/ubereats-react-native/)
 - [Walmart](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.ueonqqloc)
-- [Intuit](https://www.meetup.com/ReactSD/events/232391067/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
