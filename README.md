@@ -71,11 +71,11 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Intuit](https://www.youtube.com/watch?v=1H8Zz3BpIkQ)
 - [Major League Soccer](https://labs.mlssoccer.com/)
 - [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
+- [Seedstars](http://seedstarslabs.com/)
 - [Soundcloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
 - [Uber](https://eng.uber.com/ubereats-react-native/)
 - [Walmart](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.ueonqqloc)
-- [Seedstars](http://seedstarslabs.com/)
 
 Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
