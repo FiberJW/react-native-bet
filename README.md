@@ -29,6 +29,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Modus Create](http://www.moduscreate.com)
 - [Pleo](https://pleo.io)
 - [S-PRO](http://s-pro.io/)
+- [Southern DNA](https://southerndna.com)
 - [thoughtbot](https://thoughtbot.com/services/react-native)
 - [VisitApps](https://www.visitapps.com/)
 
