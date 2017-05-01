@@ -16,6 +16,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [BAM](http://www.bam.tech/)
 - [BigBinary](http://www.bigbinary.com/)
 - [Callstack](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb)
+- [Calvium](https://calvium.com/react-native/)
 - [Crossfield](http://www.crossfield.com/)
 - [Echobind](https://echobind.com/blog/betting-on-react-native/)
 - [Entria](https://www.entria.com.br/)
