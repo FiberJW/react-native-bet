@@ -32,6 +32,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [S-PRO](http://s-pro.io/)
 - [Southern DNA](https://southerndna.com)
 - [Suna Technologies](https://gosuna.com)
+- [Thinkmill](https://www.thinkmill.com.au)
 - [thoughtbot](https://thoughtbot.com/services/react-native)
 - [VisitApps](https://www.visitapps.com/)
 
