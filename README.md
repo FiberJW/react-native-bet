@@ -63,6 +63,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Townske](https://hackernoon.com/townske-app-in-react-native-6ad557de7a7c)
 - [Truebill](https://www.truebill.com/)
 - [Wix](https://www.youtube.com/watch?v=abSNo2P9mMM)
+- [The Yatch Week](https://www.theyachtweek.com/)
 - [Yeti Smarthome](https://medium.com/react-native-development/developing-beyond-the-screen-9af812b96724)
 - [Zeemee](https://zeemee.engineering/react-native-on-android-lessons-learned-99fee8f1d390)
 - [Zizzle](http://zizzle.io)
