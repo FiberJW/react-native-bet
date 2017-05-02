@@ -60,6 +60,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
 - [TaskRabbit](https://news.realm.io/news/slug-brian-leonard-react-native-launch/)
 - [Tiptapp](http://tiptapp.se/)
+- [Tido Music](http://tido-music.com/)
 - [Townske](https://hackernoon.com/townske-app-in-react-native-6ad557de7a7c)
 - [Truebill](https://www.truebill.com/)
 - [Wix](https://www.youtube.com/watch?v=abSNo2P9mMM)
