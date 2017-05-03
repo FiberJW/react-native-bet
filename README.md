@@ -56,6 +56,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [M6 Web](http://tech.m6web.fr/get-brownfield-react-native-app-built-on-demand/)
 - [Newsblock](https://newsblock.io)
 - [Pillow Homes](https://www.pillowhomes.com/)
+- [qplum](https://www.qplum.co/#download-qplum-app)
 - [Shoutem](https://blog.shoutem.com/brief-history-react-native/)
 - [shop.link](https://shop.link)
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
