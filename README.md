@@ -29,6 +29,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [LλMBDλ](http://www.lambdaconsulting.co)
 - [Mirum Helsinki](https://www.mirumagency.com/helsinki)
 - [Modus Create](http://www.moduscreate.com)
+- [Osedea](https://www.osedea.com/)
 - [Pleo](https://pleo.io)
 - [S-PRO](http://s-pro.io/)
 - [Southern DNA](https://southerndna.com)
