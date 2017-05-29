@@ -54,6 +54,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Gyroscope](https://blog.gyrosco.pe/building-the-app-1dac1a97d253)
 - [HoxFon](https://www.hoxfon.com)
 - [Hyr](https://hyr.work)
+- [iFLYER](https://iflyer.tv)
 - [Minder](http://www.minderme.co)
 - [Myntra](https://medium.com/myntra-engineering/updating-apps-on-the-fly-aab40c26fac2)
 - [M6 Web](http://tech.m6web.fr/get-brownfield-react-native-app-built-on-demand/)
