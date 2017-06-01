@@ -83,6 +83,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
 - [Intuit](https://www.youtube.com/watch?v=1H8Zz3BpIkQ)
+- [Khan Academy](http://engineering.khanacademy.org/posts/react-native-monorepo.htm)
 - [Major League Soccer](https://labs.mlssoccer.com/)
 - [Microsoft](https://microsoft.github.io/reactxp/blog/2017/04/06/introducing-reactxp.html)
 - [Seedstars](http://seedstarslabs.com/)
