@@ -80,6 +80,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 
 - [Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0)
 - [Bloomberg](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
+- [Evand](https://evand.com)
 - [Facebook](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)
 - [Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.3h4wir4zr)
 - [Intuit](https://www.youtube.com/watch?v=1H8Zz3BpIkQ)
