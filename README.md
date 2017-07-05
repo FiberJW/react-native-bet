@@ -66,6 +66,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Shoutem](https://blog.shoutem.com/brief-history-react-native/)
 - [shop.link](https://shop.link)
 - [Sneat (LaFourchette)](http://www.sneat.fr/)
+- [Status.im](http://status.im)
 - [TaskRabbit](https://news.realm.io/news/slug-brian-leonard-react-native-launch/)
 - [Tiptapp](http://tiptapp.se/)
 - [Tido Music](http://tido-music.com/)
