@@ -21,6 +21,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Crossfield](http://www.crossfield.com/)
 - [Echobind](https://echobind.com/blog/betting-on-react-native/)
 - [Entria](https://www.entria.com.br/)
+- [Etiya](http://www.etiya.com/etiya/home)
 - [Futurice](http://getpepperoni.com/)
 - [Formidable](https://www.youtube.com/watch?v=FbAPw8RUEmA&t=809s)
 - [G2i](http://www.g2idev.com)
