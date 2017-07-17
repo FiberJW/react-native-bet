@@ -55,6 +55,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Easy Carros](https://easycarros.com)
 - [Expo](https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2)
 - [Gyroscope](https://blog.gyrosco.pe/building-the-app-1dac1a97d253)
+- [Housing.com](https://housing.com)
 - [HoxFon](https://www.hoxfon.com)
 - [Hyr](https://hyr.work)
 - [iFLYER](https://iflyer.tv)
