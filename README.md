@@ -52,6 +52,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Discord](https://discord.engineering/react-native-deep-dive-91fd5e949933#.5jnqftgof)
 - [Draft Fantasy](https://draftfantasyfootball.co.uk/)
 - [Driversnote](https://www.driversnote.com/)
+- [Drops](https://www.languagedrops.com/)
 - [Easy Carros](https://easycarros.com)
 - [Expo](https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2)
 - [Gyroscope](https://blog.gyrosco.pe/building-the-app-1dac1a97d253)
