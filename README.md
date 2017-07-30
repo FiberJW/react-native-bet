@@ -97,6 +97,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Soundcloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
 - [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)
 - [Ticketmaster](https://www.youtube.com/watch?v=PpXam6w-Yd8)
+- [Uber](https://eng.uber.com/ubereats-react-native/)
 - [Virta Health](https://www.virtahealth.com)
 - [Walmart](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.ueonqqloc)
 
