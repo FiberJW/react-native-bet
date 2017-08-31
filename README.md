@@ -13,6 +13,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 ## Software Development Shops
 
 - [Agens](https://agens.no/)
+- [Altruistik](https://altruistik.solutions)
 - [Axept](https://axept.co/)
 - [BAM](http://www.bam.tech/)
 - [BigBinary](http://www.bigbinary.com/)
