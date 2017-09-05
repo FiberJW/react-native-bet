@@ -65,6 +65,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Minder](http://www.minderme.co)
 - [Myntra](https://medium.com/myntra-engineering/updating-apps-on-the-fly-aab40c26fac2)
 - [M6 Web](http://tech.m6web.fr/get-brownfield-react-native-app-built-on-demand/)
+- [Narmi](https://www.narmitech.com/)
 - [Newsblock](https://newsblock.io)
 - [Pillow Homes](https://www.pillowhomes.com/)
 - [qplum](https://www.qplum.co/#download-qplum-app)
