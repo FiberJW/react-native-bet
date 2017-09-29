@@ -45,7 +45,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 
 ## Product People
 
-- [Airo Health](https://www.getairo.com/home)
+- [Airo Health](https://www.airohealth.com/home)
 - [Artsy](https://artsy.github.io/series/react-native-at-artsy/)
 - [Build.com](https://build.com/)
 - [Carbon Health](https://www.carbonhealth.com/)
