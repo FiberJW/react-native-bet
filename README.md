@@ -1,3 +1,5 @@
+# `react-native-bet`
+
 <center>
   <img src="./Artwork.png" />
 </center>
@@ -6,11 +8,11 @@
 
 >A listing of companies (or teams) that use React Native in their apps. [React Native](https://facebook.github.io/react-native/) is a framework for building native apps using [React](https://facebook.github.io/react/).
 
-If your organization uses React Native feel free to drop a [PR](https://github.com/datwheat/react-native-bet/pull/new/master) with your experience! Also don't hesitate to say _hi_ on [Twitter](https://twitter.com/datwheat)!
+If your organization uses React Native feel free to drop a [PR](https://github.com/fiber-god/react-native-bet/pull/new/master) with your experience! Also don't hesitate to say _hi_ on [Twitter](https://twitter.com/fiber_god)!
 
-# Organizations using React Native
+## Organizations using React Native
 
-## Software Development Shops
+### Software Development Shops
 
 - [Agens](https://agens.no/)
 - [Altruistik](https://altruistik.solutions)
@@ -44,7 +46,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Underscope](http://underscope.io)
 - [VisitApps](https://www.visitapps.com/)
 
-## Product People
+### Product People
 
 - [Airo Health](https://www.airohealth.com/home)
 - [Artsy](https://artsy.github.io/series/react-native-at-artsy/)
@@ -87,7 +89,7 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Zizzle](http://zizzle.io)
 - [Zulip](https://zulip.org)
 
-## Household Names
+### Household Names
 
 - [Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0)
 - [Bloomberg](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
@@ -106,4 +108,4 @@ If your organization uses React Native feel free to drop a [PR](https://github.c
 - [Virta Health](https://www.virtahealth.com)
 - [Walmart](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.ueonqqloc)
 
-Thanks to [everyone](https://github.com/datwheat/react-native-bet/graphs/contributors) who contributed to this list!
+Thanks to [everyone](https://github.com/fiber-god/react-native-bet/graphs/contributors) who contributed to this list!
